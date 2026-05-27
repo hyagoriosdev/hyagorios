@@ -1,6 +1,6 @@
 # Under Improvements Landing Page
 
-A sleek and modern "Under Improvements" web page featuring an animated WebGL shader background. This single-page application is built to serve as a stylish placeholder while the main platform is being updated.
+"Under Improvements" web page
 
 ## Features
 
