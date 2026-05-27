@@ -22,7 +22,6 @@
     "@angular/build": "^21.0.0",
     "@angular/cli": "^21.0.0",
     "@angular/compiler-cli": "^21.0.0",
-    "@tailwindcss/postcss": "^4.1.12",
     "@types/node": "^20.17.19",
     "@types/three": "^0.184.1",
     "cross-env": "^10.1.0",
